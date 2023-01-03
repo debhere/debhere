@@ -4,7 +4,7 @@
 
 ⌛ This is Debmalya Mondal (Deb), having over a decade (12 years) of experience in Fintech industry. I have served many roles starting from back-end Java developer to QA Lead and currently executing my responsibilities as Technical Business Analyst specialized in Capital Markets, Wealth Management domain.
 
-💻 While my role demands of me having significant understanding of the underlying technology of the system, I too personally have a genuine belief of continuous learning of new technology trends. There are a few technology drivers that are literally revolutionalizing the Banking & Financial Sector (BFS), Machine Learning is something that draws the maximum interests in me. I learnt (or still learning) ML concepts and recently started my 👉 [blog](https://medium.com/@wetechfin) on fintech trends.
+💻 While my role demands of me having significant understanding of the underlying technology of the system, I too personally have a genuine belief of continuous learning of new technology trends. There are a few technology drivers that are literally revolutionalizing the Banking & Financial Sector (BFS), Machine Learning is something that draws the maximum interests in me and hence I learnt (or learning) ML concepts. Recently, I have started my 👉 [blog](https://medium.com/@wetechfin) to discuss on the upcoming trends that are literally changing the fintech business landscape.
 
 📚 Outside of work, I love reading books. During my school days I read a lot of fictional books by Saratchandra Chatterjee or Rabindranath Tagore like renowned novelist. However, since last couple of years I read mostly self improvement non-fiction books. The latest book I read is "The Tipping Point" by Malcolm Gladwell. Few of my favourite books which I feel everyone should read are "Atomic Habits" by James Clear, "Ikigai" by Hector Garcia & Francesc Miralles and "The Psychology of Money" by Morgan Housel.
 
@@ -23,7 +23,9 @@
 
 ### Languages
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### Frameworks
 
@@ -45,7 +47,9 @@
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
+## 🔗 Links
 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@wetechfin)
 <!--
 **debhere/debhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
