@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-⌛ This is Debmalya Mondal (Deb), having over a decade (12 years) of experience in Fintech industry. I have served many roles starting from back-end Java developer to QA Lead and currently executing my responsibilities as Technical Business Analyst specialized in Capital Markets, Wealth Management domain.
+⌛ This is Debmalya Mondal (Deb), having over a decade (12 years) of experience in Fintech industry. I have served many roles starting from QA Lead to back-end Java developer and currently executing my responsibilities as Technical Business Analyst specialized in Capital Markets, Wealth Management domain.
 
 💻 While my role demands of me having significant understanding of the underlying technology of the system, I too personally have a genuine belief of continuous learning of new technology trends. There are a few technology drivers that are literally revolutionalizing the Banking & Financial Sector (BFS), Machine Learning is something that draws the maximum interests in me and hence I learnt (or learning) ML concepts. Recently, I have started my 👉 [blog](https://medium.com/@wetechfin) to discuss on the upcoming trends that are literally changing the fintech business landscape.
 
@@ -17,7 +17,7 @@
 - 🏆 I am a Microsoft Certified Azure AI Engineer Associate (Dec 2022).
 - 🎓 I have done CFA Institute Foundation Certification (June 2018).
 - ⭐ As a BA I ideate, visualized and led an entire automation framework without GUI interaction in one of my previous companies.
-- 🥇 I won a Thought Leadership contest in my current company.
+- 🥇 I won a Thought Leadership contest in my current company, Wipro Limited. (Nov, 2021)
 
 ## 🛠️ Skills
 
