@@ -14,8 +14,9 @@
 
 ## 🏅 Achievements
 
-- 🏆 I am a Microsoft Certified Azure AI Engineer Associate (Dec 2022).
-- 🎓 I have done CFA Institute Foundation Certification (June 2018).
+- 👑 I am a Microsoft Certified Azure AI Engineer Associate (Dec 2022).
+- 🎓 Completed Data Science and AI Certificte for Managers and Leaders from IBM (Jan 2023).
+- 🏆 I have done CFA Institute Foundation Certification (June 2018).
 - ⭐ As a BA I ideate, visualized and led an entire automation framework without GUI interaction in one of my previous companies.
 - 🥇 I won a Thought Leadership contest in my current company, Wipro Limited. (Nov, 2021)
 
