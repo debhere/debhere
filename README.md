@@ -6,7 +6,7 @@
 
 💻 While my role demands of me having significant understanding of the underlying technology of the system, I too personally have a genuine belief of continuous learning of new technology trends. There are a few technology drivers that are literally revolutionalizing the Banking & Financial Sector (BFS), Machine Learning is something that draws the maximum interests in me and hence I learnt (or learning) ML concepts. Recently, I have started my 👉 [blog](https://medium.com/@wetechfin) as well.
 
-📚 Outside of work, I love reading books. During my school days I read a lot of fictional books by Saratchandra Chatterjee or Rabindranath Tagore like renowned novelist. However, since last couple of years I read mostly self improvement non-fiction books. The latest book I read is "The Tipping Point" by Malcolm Gladwell. Few of my favourite books which I feel everyone should read are "Atomic Habits" by James Clear, "Ikigai" by Hector Garcia & Francesc Miralles and "The Psychology of Money" by Morgan Housel.
+📚 Outside of work, I love reading books. During my school days I read a lot of fictional books by Saratchandra Chatterjee or Rabindranath Tagore like renowned novelist. However, since last couple of years I read mostly self improvement non-fiction books. Few of my favourite books which I feel everyone should read are "Atomic Habits" by James Clear, "Ikigai" by Hector Garcia & Francesc Miralles and "The Psychology of Money" by Morgan Housel.
 
 🍲 I am very fond of cooking as well. When I first came out of my 🏠 to pursue my career, cooking was only a need. But later on I developed passion for cooking and in turn try different cuisines to satisfy my inner foodie 😋🍽️. However, I strongly believe that cooking is an essential life skill and everyone must know at least the basics of it.
 
@@ -48,7 +48,7 @@
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-## 🔗 Links
+## 🔗 Let's Connect
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@wetechfin) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debmalyamondal/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/howdy_Deb) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debhere)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/howdy_deb/) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/idebmalya) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:https://github.com/debhere)
