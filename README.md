@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-⌛ This is Debmalya Mondal (Deb), having over a decade (12 years) of experience in Fintech industry. I have served many roles starting from QA Lead to back-end Java developer and currently executing my responsibilities as Technical Business Analyst specialized in Capital Markets, Wealth Management domain.
+⌛ This is Debmalya Mondal (Deb), have been in the Fintech industry for some time now. I have served many roles starting from QA Lead to back-end Java developer and currently executing my responsibilities as Technical Business Analyst specialized in Capital Markets, Wealth Management domain.
 
 💻 While my role demands of me having significant understanding of the underlying technology of the system, I too personally have a genuine belief of continuous learning of new technology trends. There are a few technology drivers that are literally revolutionalizing the Banking & Financial Sector (BFS), Machine Learning is something that draws the maximum interests in me and hence I learnt (or learning) ML concepts. Recently, I have started my 👉 [blog](https://medium.com/@wetechfin) as well.
 
