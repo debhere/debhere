@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-⌛ This is Debmalya Mondal (Deb), have been in the industry for more than 13 years. For last 6 years, I have been working as Technical Business Analyst in the FinTech domain with projects predominatly in Capital Markets, Trade Surveillance, and Asset & Wealth Management.
+⌛ This is Debmalya Mondal (Deb), have been in the industry for more than 14 years. For last 8 years, I have been working as Technical Business Analyst in the FinTech domain with projects predominatly in Capital Markets, Trade Surveillance, and Asset & Wealth Management.
 
 💻 While my role demands of me having significant understanding of the underlying technology of the system, I too personally have a genuine belief of continuous learning of new technology trends. There are a few technology drivers that are literally revolutionalizing the Banking & Financial Sector (BFS), AI/ML is something that draws the maximum interests in me and hence I learnt (or learning) ML concepts. Recently, I have started my 👉 [blog](https://medium.com/@debspeaks) as well.
 
